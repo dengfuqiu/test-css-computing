@@ -1,0 +1,12 @@
+{
+  "name": "test-css-computing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dengfuqiu/test-css-computing.git",
+  "author": "Hitomi <fuqiu.deng@socialcredits.cn>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.0.0"
+  }
+}
